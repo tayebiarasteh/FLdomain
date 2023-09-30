@@ -21,7 +21,7 @@ The software is developed in **Python 3.9**. For deep learning, the **PyTorch 2.
 Main Python modules required for the software can be installed from ./requirements:
 
 ```
-$ conda env create -f requirements.yml
+$ conda env create -f requirements.yaml
 $ conda activate fldo
 ```
 
