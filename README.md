@@ -1,11 +1,12 @@
-# Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models
+# Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning
 
 
 
 Overview
 ------
 
-* This is the official repository of the paper **Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models**.
+* This is the official repository of the paper [**Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning**](https://www.nature.com/articles/s41598-023-49956-8).
+* Pre-print version: [**https://doi.org/10.48550/arXiv.2310.00757**](https://doi.org/10.48550/arXiv.2310.00757).
 
 
 Introduction
@@ -46,12 +47,15 @@ Our source code for federated learning as well as training and evaluation of the
 ------
 ### In case you use this repository, please cite the original paper:
 
-S. Tayebi Arasteh et al. Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models (2023).
+Tayebi Arasteh, S., Kuhl, C., Saehn, MJ. et al. *Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning*. Sci Rep 13, 22576 (2023). [https://doi.org/10.1038/s41598-023-49956-8](https://doi.org/10.1038/s41598-023-49956-8).
 
 ### BibTex
 
     @article {fldo2023,
-      author = {Tayebi Arasteh, Soroosh and others},
-      title = {Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models},
+      author = {Tayebi Arasteh, Soroosh and Kuhl, Christiane and Saehn, Marwin-Jonathan and Isfort, Peter and Truhn, Daniel and Nebelung, Sven},
+      title = {Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning},
       year = {2023},
+      doi = {10.1038/s41598-023-49956-8},
+      publisher = {Nature Portfolio},
+      journal = {Scientific Reports}
     }
